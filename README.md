@@ -3,3 +3,6 @@ As I begin my data analytics internship at MeriSKILL, I'm excited to share my fi
 
 Live Dashboard: [Click Here](https://app.powerbi.com/view?r=eyJrIjoiYzU1NTM3ZWMtMzkwMy00NTZjLWE1M2EtZDVjYzIwMjkxZDRhIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
+
+**Key Measures**
+
