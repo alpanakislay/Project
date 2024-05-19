@@ -6,3 +6,10 @@ Live Dashboard: [Click Here](https://app.powerbi.com/view?r=eyJrIjoiYzU1NTM3ZWMt
 
 **Key Measures**
 
+• Total Sales
+• Total Qty Ordered
+• Total Cost
+• Profit Margin
+• Profit Margin %
+
+
