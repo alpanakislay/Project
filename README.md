@@ -24,6 +24,14 @@ Live Dashboard: [Click Here](https://app.powerbi.com/view?r=eyJrIjoiYzU1NTM3ZWMt
 
 • Profit Margin %
 
+**Key Insights Derived**
+
+1.	🌟 𝐁𝐞𝐬𝐭 𝐒𝐞𝐥𝐥𝐢𝐧𝐠 𝐏𝐫𝐨𝐝𝐮𝐜𝐭𝐬: The top performers in our lineup included the MacBook Pro Laptop, iPhone, ThinkPad Laptop, Google Photos, and the 27in 4K Gaming Monitor, which all drove significant revenue and profit.
+2.	📉 𝐋𝐞𝐚𝐬𝐭 𝐒𝐞𝐥𝐥𝐢𝐧𝐠 𝐏𝐫𝐨𝐝𝐮𝐜𝐭𝐬: Conversely, products such as the Lightning Charging Cable, USB-C Charging Cable, Wired Headphones, and both AA and AAA Batteries (4-pack) registered lower sales and profit margins.
+3.	🔄 𝐋𝐆 𝐃𝐫𝐲𝐞𝐫 𝐚𝐧𝐝 𝐋𝐆 𝐖𝐚𝐬𝐡𝐢𝐧𝐠 𝐌𝐚𝐜𝐡𝐢𝐧𝐞: These products achieved a balanced performance, neither generating profits nor incurring losses.
+4.	📉 𝐒𝐚𝐥𝐞𝐬 𝐓𝐫𝐞𝐧𝐝 There was a noticeable decrease in sales during August and September, offering insightful perspectives on the business's performance trends over these months.
+
+
 
 
 
