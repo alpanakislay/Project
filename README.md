@@ -32,6 +32,13 @@ Live Dashboard: [Click Here](https://app.powerbi.com/view?r=eyJrIjoiYzU1NTM3ZWMt
 4.	📉 𝐒𝐚𝐥𝐞𝐬 𝐓𝐫𝐞𝐧𝐝 There was a noticeable decrease in sales during August and September, offering insightful perspectives on the business's performance trends over these months.
 
 # Screenshot
+![image](https://github.com/alpanakislay/Project/assets/170240674/16b1f112-7890-48c9-a2f9-ebbed962d9b3)
+![image](https://github.com/alpanakislay/Project/assets/170240674/4e989263-ecd6-46db-9052-b36294d7ccbc)
+
+# Tools Used
+Power BI
+
+
 
 
 
